@@ -1,0 +1,28 @@
+name: KAOS
+favicon: null
+layout_spectrum: 0.07406977121718228
+typography_spectrum: 0.6373496172018349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3391942181624472
+  lightness: 0.7281678603030741
+  saturation: 0.902371255448088
+  rhythmicContrast: 0.7332508547697216
+purpose: []
